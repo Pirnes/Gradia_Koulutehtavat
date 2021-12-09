@@ -1,0 +1,10 @@
+D:\Git\Tietokantojen_hyodyntaminen\T1\bin\Debug\T1.exe.config
+D:\Git\Tietokantojen_hyodyntaminen\T1\bin\Debug\T1.exe
+D:\Git\Tietokantojen_hyodyntaminen\T1\bin\Debug\T1.pdb
+D:\Git\Tietokantojen_hyodyntaminen\T1\obj\Debug\T1.csprojAssemblyReference.cache
+D:\Git\Tietokantojen_hyodyntaminen\T1\obj\Debug\T1.Form1.resources
+D:\Git\Tietokantojen_hyodyntaminen\T1\obj\Debug\T1.Properties.Resources.resources
+D:\Git\Tietokantojen_hyodyntaminen\T1\obj\Debug\T1.csproj.GenerateResource.cache
+D:\Git\Tietokantojen_hyodyntaminen\T1\obj\Debug\T1.csproj.CoreCompileInputs.cache
+D:\Git\Tietokantojen_hyodyntaminen\T1\obj\Debug\T1.exe
+D:\Git\Tietokantojen_hyodyntaminen\T1\obj\Debug\T1.pdb
