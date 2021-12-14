@@ -1,0 +1,24 @@
+﻿Tehtävä 11
+
+DatabaseController-luokassa on valmista koodia, jolla saa yhteyden Sql-tietokantaan. 
+Tehtäviä tehdessä pidä mielessä että kansiot model, view ja controller voisivat olla 
+eri koneissa ajettavia sovelluksia. 
+
+View
+	-MainMenu, tarjoaa käyttäjälle mahdollisuuden autojen selaus, poisto ja lisäys toiminteet. 
+	Hyödyntää model:n dataluokkia.
+
+Model
+	-Dataluokat (auto, autoMerkki, autoMalli, väri, polttoaine), tietokantayhteys
+
+Controller
+	-AutoRegisterHandler toimii rajapintana MainMenun ja tietokantayhteyden välillä. 
+	Virheen käsittely, tiedon palautus, annetun tiedon tarkistus (esim SQL injection esto)
+
+Jotta saamme sql yhteys komennot käyttöön lisää sql nimiavaruus käyttöön.
+using System.Data.SqlClient;
+
+Seuraa ohjeita OneNotesta, kohdasta: yhteyden luonti MS SQL palvelimeen
+
+Korjaa koodia niin että se kääntyy ilman virheitä. Koodissa on tahallaan puutteellisia
+ja virheellisiä kohtia!

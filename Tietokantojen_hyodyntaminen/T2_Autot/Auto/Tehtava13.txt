@@ -1,0 +1,19 @@
+﻿Tehtävä 13
+
+Toteuta testaa tietokantatoiminto, joka on valikossa.
+
+Koodia on kirjoitettu, mutta koodista puuttuu osia ja sinun pitää täydentää niitä.
+
+1. Klikkaa ensin valikkoa Testaa tietokantayhteyttä-kohdasta editorissa
+
+2. Ala tekemään siitä koodia niin, että
+   - kutsut kyseisessä kohdassa AutoRegisterHandler-luokan oliota TestDatabaseConnection()
+
+3. Katso mitä virheitä Visual Studio antaa ja toimi korjaten ne. 
+Joudut lähinnä täydentämään koodia.
+
+Vinkkejä:
+
+- olio pitää muistaa luoda ennen kuin sitä käytetään
+  Esimerkiksi: Student student = new Student();
+

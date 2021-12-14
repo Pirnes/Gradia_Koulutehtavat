@@ -1,0 +1,32 @@
+﻿Tehtävä 12
+
+1. Lisää MainMenu-formiin Valikko (menuStrip)
+2. Valikko:
+
+   File    About
+	 |        |
+	 +-Exit   +-Testaa tietokantayhteyttä
+
+3. File -> Exit sammuttaa ohjelman
+4. About -> Testaa tietokantayhteyttä testaa toimiiko yhteys
+
+5. Lisää formiin seuraavat kentät ja sopivat labelit:
+
+   TextBox:
+	- mittarilukema
+	- moottorin tilavuus
+	- hinta
+   
+   ComboBox:
+	- merkki
+	- malli
+
+	DayTimePicker
+	 - Rekisteröintipäivämäärä
+
+6. Lisää painikkeet:
+	- Uusi tietue
+    - Tallenna
+	- Poista
+	- Edellinen ja Seuraava selauspainikkeet
+

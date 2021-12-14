@@ -1,0 +1,15 @@
+﻿
+Tehtävät K3
+
+Jatka Auto-projektia.
+
+1. Tee uusi painike
+   - Joka tyhjää kentät
+
+2. Tee tallennus
+   - Tallenna-painike luo uuden rivin Auto-tauluun
+
+3. Selaus
+   - Seuraava selaa aina id:n mukaisesti eteen päin taulua
+   - Edellinen selaa aina id:n mukaisesti taakse päin taulua
+

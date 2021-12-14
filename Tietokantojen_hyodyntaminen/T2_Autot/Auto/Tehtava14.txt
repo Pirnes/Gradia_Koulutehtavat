@@ -1,0 +1,52 @@
+﻿Tehtävä 14
+
+Tee DatabaseController-luokkaan toteutus seuraaville:
+
+    public List getAllAutoMakers() 
+	  - hakee tietokannasta kaikki auton merkit ja palauttaa listan valmistaja luokasta
+
+    public List getAutoModels(int makerId)
+	  - hakee tietyn automerkin kaikki mallit ja palauttaa mallit listana
+
+	Tee vielä niin, että kun lomake latautuu, hakee se Auton merkkien comboboxiin 
+	kaikki auton merkit automaattisesti.
+
+	Malleja ei ladata ennen kuin valmistaja on ladattu.
+
+Toteutustapa:
+
+	1. Luo AutonMerkki ja AutonMalli-luokat
+
+	2. Tee sinne attribuutit, jotka ovat suoraan tietokannasta
+
+	3. Tee niille get ja set metodit 
+
+	4. Hae tietokannasta tiedot listoihin
+
+	5. Päivitä ne ruudulle
+
+
+Vinkit:
+
+Luokkarakenteeseen:
+
+		AutonMerkki:
+			id
+			merkkiNimi
+
+		AutonMalli:
+			id
+			malliNimi
+			merkkiId
+
+Merkit ja mallit voi kerätä Listiin
+
+List<autonMerkit>;
+List<autonMallit>;
+
+Käyttö koodissa:
+
+AutonMerkki autonMerkki = new AutonMerkki();
+autonMallit.add(autonMerkki)
+
+

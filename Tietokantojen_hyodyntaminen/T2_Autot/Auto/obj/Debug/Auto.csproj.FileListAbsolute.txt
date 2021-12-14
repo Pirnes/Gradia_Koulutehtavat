@@ -1,0 +1,17 @@
+H:\2017-2018\Olio-ohjelmointi\Auto\Auto\bin\Debug\Auto.exe.config
+H:\2017-2018\Olio-ohjelmointi\Auto – Kopio (2)\Auto\bin\Debug\Auto.exe.config
+C:\Users\maattvel\Downloads\Uusi kansio\Auto\bin\Debug\Auto.exe.config
+H:\ohjelmointi\olio-ohjelmointi\Auto\bin\Debug\Auto.exe.config
+H:\ohjelmointi\olio-ohjelmointi\Auto\obj\Debug\Auto.csprojResolveAssemblyReference.cache
+H:\ohjelmointi\olio-ohjelmointi\Auto\obj\Debug\Auto.view.MainMenu.resources
+H:\ohjelmointi\olio-ohjelmointi\Auto\obj\Debug\Auto.csproj.GenerateResource.Cache
+H:\ohjelmointi\olio-ohjelmointi\Auto\bin\Debug\Auto.exe
+H:\ohjelmointi\olio-ohjelmointi\Auto\bin\Debug\Auto.pdb
+H:\ohjelmointi\olio-ohjelmointi\Auto\obj\Debug\Auto.exe
+H:\ohjelmointi\olio-ohjelmointi\Auto\obj\Debug\Auto.pdb
+C:\Users\torppjus\Desktop\autotehtävä\Auto\obj\Debug\Auto.csprojAssemblyReference.cache
+C:\Users\torppjus\Desktop\autotehtävä\Auto\obj\Debug\Auto.view.MainMenu.resources
+C:\Users\torppjus\Desktop\autotehtävä\Auto\obj\Debug\Auto.csproj.GenerateResource.cache
+C:\Users\torppjus\Desktop\autotehtävä\Auto\obj\Debug\Auto.csproj.CoreCompileInputs.cache
+C:\Users\torppjus\Desktop\autotehtävä\Auto\obj\Debug\Auto.exe
+C:\Users\torppjus\Desktop\autotehtävä\Auto\obj\Debug\Auto.pdb
