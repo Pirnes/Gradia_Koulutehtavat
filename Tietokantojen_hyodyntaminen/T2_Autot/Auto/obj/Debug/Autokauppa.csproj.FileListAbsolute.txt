@@ -1,0 +1,9 @@
+D:\Git\Gradia_Koulutehtavat\Tietokantojen_hyodyntaminen\T2_Autot\Auto\bin\Debug\Auto.exe.config
+D:\Git\Gradia_Koulutehtavat\Tietokantojen_hyodyntaminen\T2_Autot\Auto\bin\Debug\Auto.exe
+D:\Git\Gradia_Koulutehtavat\Tietokantojen_hyodyntaminen\T2_Autot\Auto\bin\Debug\Auto.pdb
+D:\Git\Gradia_Koulutehtavat\Tietokantojen_hyodyntaminen\T2_Autot\Auto\obj\Debug\Autokauppa.csprojAssemblyReference.cache
+D:\Git\Gradia_Koulutehtavat\Tietokantojen_hyodyntaminen\T2_Autot\Auto\obj\Debug\Autokauppa.view.MainMenu.resources
+D:\Git\Gradia_Koulutehtavat\Tietokantojen_hyodyntaminen\T2_Autot\Auto\obj\Debug\Autokauppa.csproj.GenerateResource.cache
+D:\Git\Gradia_Koulutehtavat\Tietokantojen_hyodyntaminen\T2_Autot\Auto\obj\Debug\Autokauppa.csproj.CoreCompileInputs.cache
+D:\Git\Gradia_Koulutehtavat\Tietokantojen_hyodyntaminen\T2_Autot\Auto\obj\Debug\Auto.exe
+D:\Git\Gradia_Koulutehtavat\Tietokantojen_hyodyntaminen\T2_Autot\Auto\obj\Debug\Auto.pdb

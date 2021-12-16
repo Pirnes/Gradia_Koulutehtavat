@@ -47,6 +47,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="controller\KaupanLogiikka.cs" />
+    <Compile Include="model\AutonMalli.cs" />
+    <Compile Include="model\AutonMerkki.cs" />
     <Compile Include="model\DatabaseHallinta.cs" />
     <Compile Include="model\Auto.cs" />
     <Compile Include="Program.cs" />
@@ -60,6 +62,13 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Properties\DataSources\Autokauppa.controller.KaupanLogiikka.datasource" />
+    <None Include="Properties\DataSources\Autokauppa.model.Auto.datasource" />
+    <None Include="Properties\DataSources\Autokauppa.model.AutonMalli.datasource" />
+    <None Include="Properties\DataSources\Autokauppa.model.AutonMerkki.datasource" />
+    <None Include="Properties\DataSources\Autokauppa.model.DatabaseHallinta.datasource" />
+    <None Include="Properties\DataSources\Autokauppa.Program.datasource" />
+    <None Include="Properties\DataSources\Autokauppa.view.MainMenu.datasource" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Tehtava10.txt" />
@@ -75,6 +84,7 @@
       <DependentUpon>MainMenu.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

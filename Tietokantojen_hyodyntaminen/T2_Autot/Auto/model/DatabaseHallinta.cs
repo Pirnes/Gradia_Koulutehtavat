@@ -5,6 +5,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data.SqlClient;
+using Autokauppa.model;
 
 
 
@@ -14,15 +16,17 @@ namespace Autokauppa.model
     {
         string yhteysTiedot;
         SqlConnection dbYhteys;
+        SqlCommand komento;
 
         public DatabaseHallinta()
         {
-           yhteysTiedot = "Leikkaa tähän oma connection string tietokannasta";
         }
 
         public bool connectDatabase()
         {
-            dbYhteys.ConnectionString = yhteysTiedot;
+            yhteysTiedot = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=Autokauppa;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+
+            dbYhteys = new SqlConnection(yhteysTiedot);
             
             try
             { 
@@ -48,23 +52,32 @@ namespace Autokauppa.model
         {
             bool palaute = false;
             return palaute;
-
-            
         }
 
-        public List<> getAllAutoMakersFromDatabase()
+        public List<AutonMerkki> getAllAutoMakersFromDatabase()
         {
-            List<> palaute=null;
-            return palaute;
+            connectDatabase();
 
+            List<AutonMerkki> autonMerkit = new List<AutonMerkki>();
+            komento = new SqlCommand("SELECT * FROM AutonMerkki", dbYhteys);
+            var reader = komento.ExecuteReader();
+            while (reader.Read())
+            {
+                AutonMerkki autonMerkki = new AutonMerkki();
+                autonMerkki.ID = reader.GetInt32(0);
+                autonMerkki.Merkki = reader.GetString(1);
+                autonMerkit.Add(autonMerkki);
+            }
+            disconnectDatabase();
+            return autonMerkit;
         }
 
-        public List<> getAutoModelsByMakerId(int makerId) 
-             
+        public List<AutonMalli> getAutoModelsByMakerId(int AutonMerkkiID) 
         {
-            List<> palaute = null;
+            List<AutonMalli> autonMallit = new List<AutonMalli>();
+            //autonMallit.Add(autonMalli);
+            List<AutonMalli> palaute = null;
             return palaute;
         }
-
     }
 }
