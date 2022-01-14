@@ -1,0 +1,3 @@
+Tässä linkki githubiin:
+
+https://github.com/Pirnes/Gradia_Koulutehtavat/tree/main/Tietokantojen_hyodyntaminen/T2_Autot
