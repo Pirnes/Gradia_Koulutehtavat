@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Käyttäjän iän selvittäminen", "Käyttäjän iän selvittäminen.csproj", "{993A9F2A-B21B-49C4-BF4E-D0409B9D9FEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{993A9F2A-B21B-49C4-BF4E-D0409B9D9FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{993A9F2A-B21B-49C4-BF4E-D0409B9D9FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{993A9F2A-B21B-49C4-BF4E-D0409B9D9FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{993A9F2A-B21B-49C4-BF4E-D0409B9D9FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31D08363-A6FB-4F8F-89A3-1246C2A866C1}
+	EndGlobalSection
+EndGlobal

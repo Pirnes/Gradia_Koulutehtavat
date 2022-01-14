@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtävä 15 syotteen tarkistus try catch metodi", "Tehtävä 15 syotteen tarkistus try catch metodi.csproj", "{10250151-2951-4DDE-B75F-CB61D529871C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10250151-2951-4DDE-B75F-CB61D529871C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10250151-2951-4DDE-B75F-CB61D529871C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10250151-2951-4DDE-B75F-CB61D529871C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10250151-2951-4DDE-B75F-CB61D529871C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3993E101-085C-4F4D-BC72-819C384BF15D}
+	EndGlobalSection
+EndGlobal

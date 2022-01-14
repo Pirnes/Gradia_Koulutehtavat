@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lukupyramidi", "Lukupyramidi.csproj", "{8627B162-B7B4-4075-B137-AB0E2AB02A66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8627B162-B7B4-4075-B137-AB0E2AB02A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8627B162-B7B4-4075-B137-AB0E2AB02A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8627B162-B7B4-4075-B137-AB0E2AB02A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8627B162-B7B4-4075-B137-AB0E2AB02A66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CC19458-4989-4D1D-9487-84A79F0DA077}
+	EndGlobalSection
+EndGlobal

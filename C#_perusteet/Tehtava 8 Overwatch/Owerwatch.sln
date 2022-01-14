@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Owerwatch", "Owerwatch.csproj", "{C8119634-D973-430C-AFAE-80646E7B7A95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8119634-D973-430C-AFAE-80646E7B7A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8119634-D973-430C-AFAE-80646E7B7A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8119634-D973-430C-AFAE-80646E7B7A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8119634-D973-430C-AFAE-80646E7B7A95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {363159F4-1DE2-42AD-9D74-66DC599FB1F8}
+	EndGlobalSection
+EndGlobal

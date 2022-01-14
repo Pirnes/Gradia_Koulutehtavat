@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\DäniPix\source\repos\Tulostaminen\Tulostus 1 tehtävä.cs" Link="Tulostus 1 tehtävä.cs" />
+  </ItemGroup>
+
+</Project>

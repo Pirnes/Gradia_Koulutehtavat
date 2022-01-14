@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Tehtava_19_Tekstin_jatkokasittely</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\DäniPix\koulutehtavat\Tehtava 19 Tekstin jatkokasittely.cs" Link="Tehtava 19 Tekstin jatkokasittely.cs" />
+  </ItemGroup>
+
+</Project>
