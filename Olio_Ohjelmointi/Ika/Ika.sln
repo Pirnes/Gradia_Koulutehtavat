@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ika", "Ika.csproj", "{F5867337-E2A7-49AD-B940-D26982E1DCBD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElainLuokat", "..\ElainLuokka\ElainLuokat\ElainLuokat.csproj", "{4057A110-BBA0-44F0-84CF-B169B6C2819C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5867337-E2A7-49AD-B940-D26982E1DCBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5867337-E2A7-49AD-B940-D26982E1DCBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5867337-E2A7-49AD-B940-D26982E1DCBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5867337-E2A7-49AD-B940-D26982E1DCBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4057A110-BBA0-44F0-84CF-B169B6C2819C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4057A110-BBA0-44F0-84CF-B169B6C2819C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4057A110-BBA0-44F0-84CF-B169B6C2819C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4057A110-BBA0-44F0-84CF-B169B6C2819C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FC0FA8C-2A30-496D-A6E9-F120C3EFCA38}
+	EndGlobalSection
+EndGlobal

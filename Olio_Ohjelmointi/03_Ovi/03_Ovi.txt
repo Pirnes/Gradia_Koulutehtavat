@@ -1,0 +1,15 @@
+Aloita uusi projekti.
+
+1. Luo projektiin luokka nimeltä Ovi. Ovella ei ole oliomuuttujia (kenttiä).
+	a. Luo sille parametriton konstruktori (tai käytä oletuskonstruktoria).
+	b. Luo tämän jälkeen ovelle metodi public void koputa(), jota kutsuttaessa tulostuu viesti "Who's there?".
+
+2. Oven tulee toimia seuraavasti.
+Ovi alexander = new Ovi(); 
+alexander.koputa(); 
+alexander.koputa();
+
+Esimerkkitulostus
+
+Who's there? Who's there?
+

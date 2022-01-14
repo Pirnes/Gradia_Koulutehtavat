@@ -1,0 +1,24 @@
+Aloita uusi projekti.
+
+Luo projektiin luokka nimeltä Pilli.
+Lisää luokalle oliomuuttuja private String aani.
+Luo tämän jälkeen konstruktori public Pilli(String pillinAani), jonka avulla luodaan uusi pilli, jolle annetaan ääni.
+
+Lisää pillille vielä metodi public void soi(), joka tulostaa pillin äänen.
+
+Tee pääohjelmaan alla olevat toiminteet.
+
+Pillin tulee toimia seuraavasti.
+
+Pilli sorsapilli = new Pilli("Kvaak"); 
+Pilli kukkopilli = new Pilli("Peef"); 
+sorsapilli.soi(); 
+kukkopilli.soi(); 
+sorsapilli.soi();
+
+Esimerkkitulostus:
+
+Kvaak 
+Peef 
+Kvaak
+

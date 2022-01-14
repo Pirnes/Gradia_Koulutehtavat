@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Periytyminen4", "Periytyminen4.csproj", "{A568FFE1-54CB-4F07-8E93-3C36AE49AE93}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElainLuokat", "..\ElainLuokka\ElainLuokat\ElainLuokat.csproj", "{A89CA01B-DEB6-450E-AD39-EA611993F06A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A568FFE1-54CB-4F07-8E93-3C36AE49AE93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A568FFE1-54CB-4F07-8E93-3C36AE49AE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A568FFE1-54CB-4F07-8E93-3C36AE49AE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A568FFE1-54CB-4F07-8E93-3C36AE49AE93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A89CA01B-DEB6-450E-AD39-EA611993F06A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A89CA01B-DEB6-450E-AD39-EA611993F06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A89CA01B-DEB6-450E-AD39-EA611993F06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A89CA01B-DEB6-450E-AD39-EA611993F06A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1458636C-3A3F-47AA-BCB9-4193995DBBD1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Tulos]
+(
+	[Peli_Id] INT NOT NULL PRIMARY KEY IDENTITY,
+	[Pelaaja_ID] INT NULL,
+	[Tulos] DECIMAL (18,2) NULL,
+)

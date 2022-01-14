@@ -1,0 +1,23 @@
+1. Mitä tapahtuu, jos kortilta loppuu raha kesken? Ei ole järkevää, että saldo muuttuu negatiiviseksi. Muuta metodeita syoEdullisesti ja syoMaukkaasti niin, että ne eivät vähennä saldoa, jos saldo menisi negatiiviseksi.
+
+Seuraava pääohjelma testaa luokkaa:
+
+public class Program {
+	public static void main(String[] args) { 
+		Maksukortti kortti = new Maksukortti(5); 
+		Console.WriteLine(kortti); 
+		kortti.SyoMaukkaasti(); 
+		Console.WriteLine(kortti); 
+		kortti.SyoMaukkaasti(); 
+		console.WriteLine(kortti);
+	}
+}
+
+Ohjelman tulisi tuottaa seuraava tulostus:
+Esimerkkitulostus
+
+Kortilla on rahaa 5.0 euroa 
+Kortilla on rahaa 0.40000000000000036 
+Kortilla on rahaa 0.40000000000000036
+
+Yllä toinen metodin syoMaukkaasti kutsu ei vaikuttanut saldoon, koska saldo olisi mennyt negatiiviseksi.

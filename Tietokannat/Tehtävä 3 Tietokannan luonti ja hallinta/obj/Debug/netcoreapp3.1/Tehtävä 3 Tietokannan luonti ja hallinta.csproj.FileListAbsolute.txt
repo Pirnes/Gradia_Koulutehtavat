@@ -1,0 +1,13 @@
+D:\Git\Tietokannat\Tehtävä 3 Tietokannan luonti ja hallinta\bin\Debug\netcoreapp3.1\Tehtävä 3 Tietokannan luonti ja hallinta.exe
+D:\Git\Tietokannat\Tehtävä 3 Tietokannan luonti ja hallinta\bin\Debug\netcoreapp3.1\Tehtävä 3 Tietokannan luonti ja hallinta.deps.json
+D:\Git\Tietokannat\Tehtävä 3 Tietokannan luonti ja hallinta\bin\Debug\netcoreapp3.1\Tehtävä 3 Tietokannan luonti ja hallinta.runtimeconfig.json
+D:\Git\Tietokannat\Tehtävä 3 Tietokannan luonti ja hallinta\bin\Debug\netcoreapp3.1\Tehtävä 3 Tietokannan luonti ja hallinta.runtimeconfig.dev.json
+D:\Git\Tietokannat\Tehtävä 3 Tietokannan luonti ja hallinta\bin\Debug\netcoreapp3.1\Tehtävä 3 Tietokannan luonti ja hallinta.dll
+D:\Git\Tietokannat\Tehtävä 3 Tietokannan luonti ja hallinta\bin\Debug\netcoreapp3.1\Tehtävä 3 Tietokannan luonti ja hallinta.pdb
+D:\Git\Tietokannat\Tehtävä 3 Tietokannan luonti ja hallinta\obj\Debug\netcoreapp3.1\Tehtävä 3 Tietokannan luonti ja hallinta.csprojAssemblyReference.cache
+D:\Git\Tietokannat\Tehtävä 3 Tietokannan luonti ja hallinta\obj\Debug\netcoreapp3.1\Tehtävä 3 Tietokannan luonti ja hallinta.AssemblyInfoInputs.cache
+D:\Git\Tietokannat\Tehtävä 3 Tietokannan luonti ja hallinta\obj\Debug\netcoreapp3.1\Tehtävä 3 Tietokannan luonti ja hallinta.AssemblyInfo.cs
+D:\Git\Tietokannat\Tehtävä 3 Tietokannan luonti ja hallinta\obj\Debug\netcoreapp3.1\Tehtävä 3 Tietokannan luonti ja hallinta.csproj.CoreCompileInputs.cache
+D:\Git\Tietokannat\Tehtävä 3 Tietokannan luonti ja hallinta\obj\Debug\netcoreapp3.1\Tehtävä 3 Tietokannan luonti ja hallinta.dll
+D:\Git\Tietokannat\Tehtävä 3 Tietokannan luonti ja hallinta\obj\Debug\netcoreapp3.1\Tehtävä 3 Tietokannan luonti ja hallinta.pdb
+D:\Git\Tietokannat\Tehtävä 3 Tietokannan luonti ja hallinta\obj\Debug\netcoreapp3.1\Tehtävä 3 Tietokannan luonti ja hallinta.genruntimeconfig.cache

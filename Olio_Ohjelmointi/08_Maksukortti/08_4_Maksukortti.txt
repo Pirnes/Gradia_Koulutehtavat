@@ -1,0 +1,23 @@
+Lisätään luokkaan LataaRahaa metori, jolla saa lisättyä saldoa annetun luvun verran.
+
+Ominaisuuden testaava pääohjelma:
+
+public class Program {
+	public static void main(String[] args) {
+		Maksukortti kortti=new Maksukortti(10);		
+		Console.WriteLine(kortti); 
+		kortti.lataaRahaa(15);
+		Console.WriteLine(kortti); 
+		kortti.lataaRahaa(10); 
+		Console.WriteLine(kortti); 
+		kortti.lataaRahaa(200); 
+		Console.WriteLine(kortti); 
+	} 
+}
+
+Ohjelman tulisi tuottaa seuraava tulostus:
+
+Kortilla on rahaa 10.0 euroa 
+Kortilla on rahaa 25.0 euroa 
+Kortilla on rahaa 35.0 euroa 
+Kortilla on rahaa 235.0 euroa

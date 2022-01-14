@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tehtävä 3 Tietokannan luonti ja hallinta/1.0.0": {
+        "runtime": {
+          "Tehtävä 3 Tietokannan luonti ja hallinta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tehtävä 3 Tietokannan luonti ja hallinta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

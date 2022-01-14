@@ -1,0 +1,15 @@
+Luo uusi projekti tai käytä annettua projektia.
+
+1. Luo projektiin luokka nimeltä Musiikkikappale.
+2. Musiikkikappaleella on oliomuuttujat nimi (merkkijono) ja pituus sekunteina (kokonaisluku).
+3. Molemmat asetetaan konstruktorissa public Musiikkikappale(String kappaleenNimi, int kappaleenPituus).
+4. Lisää oliolle myös metodit public String nimi(), joka palauttaa kappaleen nimen, ja public int pituus(), joka palauttaa kappaleen pituuden.
+
+Luokan tulee toimia seuraavasti.
+
+Musiikkikappale garden = new Musiikkikappale("In The Garden", 10910); 
+Console.Writeline("Kappaleen " + garden.nimi() + " pituus on " + garden.pituus() + " sekuntia.");
+
+Esimerkkitulostus
+
+Kappaleen In The Garden pituus on 10910 sekuntia.

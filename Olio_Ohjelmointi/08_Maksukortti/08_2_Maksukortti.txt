@@ -1,0 +1,32 @@
+1. Täydennä Maksukortti-luokkaa seuraavilla metodeilla:
+
+public void syoEdullisesti() { 
+ // kirjoita koodia tähän 
+}
+
+public void syoMaukkaasti() {
+ // kirjoita koodia tähän
+}
+
+Metodin syoEdullisesti tulisi vähentää kortin saldoa 2.60 eurolla ja metodin syoMaukkaasti tulisi vähentää kortin saldoa 4.60 eurolla.
+
+Seuraava pääohjelma testaa luokkaa:
+
+public class Program { 
+	public static void main(String[] args) {
+		Maksukortti kortti = new Maksukortti(50); 
+		Console.WriteLine(kortti); 
+		kortti.syoEdullisesti();
+		Console.WriteLine(kortti); 
+		kortti.syoMaukkaasti(); 
+		kortti.syoEdullisesti(); 
+		Console.WriteLine(kortti);
+	} 
+}
+
+Ohjelman tulisi tuottaa *kutakuinkin* seuraava tulostus:
+Esimerkkitulostus
+
+Kortilla on rahaa 50.0 euroa
+Kortilla on rahaa 47.4 euroa 
+Kortilla on rahaa 40.199999999999996 euroa
